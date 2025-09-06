@@ -1,8 +1,8 @@
 # Learn-Python
-You can learn Python in This WEBSITE!!! YAHOOO!!! This is coded in Python C++ Lua and Java
+This will no longer be available
 ``` python
 print("Hello World!")
 ```
 ``` markdown
-Visit the website to learn more!
+no longer markdown
 ```
